@@ -12,8 +12,8 @@ from aiogram.filters import Command
 import logging
 
 # ========== НАСТРОЙКИ ==========
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # ← ТВОЙ ТОКЕН
-ADMIN_ID = 8347013883               # ← ТВОЙ ID
+BOT_TOKEN = "8856909599:AAFQ2fvhsvnt10f8yHBhjfsDK7XdtUEdroM"  # ← ТВОЙ ТОКЕН
+ADMIN_ID = 8002472821             # ← ТВОЙ ID
 
 # ========== НАСТРОЙКИ ЛОГОВ ==========
 logging.basicConfig(level=logging.INFO)
