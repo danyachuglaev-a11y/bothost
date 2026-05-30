@@ -15,8 +15,8 @@ from aiogram.fsm.state import StatesGroup, State
 import logging
 
 # ========== НАСТРОЙКИ ==========
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # ← ВСТАВЬ ТОКЕН
-ADMIN_ID = 8347013883               # ← ТВОЙ ID
+BOT_TOKEN = "8856909599:AAFQ2fvhsvnt10f8yHBhjfsDK7XdtUEdroM"  # ← ВСТАВЬ ТОКЕН
+ADMIN_ID = 8002472821      # ← ТВОЙ ID
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=BOT_TOKEN)
